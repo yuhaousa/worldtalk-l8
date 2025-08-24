@@ -7,7 +7,7 @@ const bannerSlides = [
   {
     id: 1,
     image: "/modern-english-classroom.png",
-    title: "Master English with Interactive Learning with Worldtalk",
+    title: "Master English with Interactive Learning",
     subtitle: "Join thousands of learners improving their English skills daily",
   },
   {
